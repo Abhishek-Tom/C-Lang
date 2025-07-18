@@ -9,5 +9,8 @@ int main(){
     for(int i=1 ; i<=n; i++){
         printf("Hello world\n");      
     }
+    // for(int i=1 ; i<=n; i=i+2){
+    //     printf("Hello world\n");      
+    // }
     return 0;
 }
